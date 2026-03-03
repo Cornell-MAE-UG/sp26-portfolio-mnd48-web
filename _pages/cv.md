@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: <Member Naomi Dagba> - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae

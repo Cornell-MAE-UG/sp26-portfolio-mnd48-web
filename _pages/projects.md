@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Portfolio
+title: <Member Naomi Dagba> - Portfolio
 permalink: /projects/
 ---
 
