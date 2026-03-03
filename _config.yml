@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Member Naomi Dagba
 description              : Member Naomi Dagba - Projects and CV 
-baseurl                  : "/SP26-PORTFOLIO_MND48_WEB" # Set this to your repo name 
+baseurl                  : "/sp26-portfolio-mnd48-web" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
