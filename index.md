@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Member Naomi Dagba>
+title: Member Naomi Dagba
 ---
 
 ## About Me
@@ -9,8 +9,6 @@ title: <Member Naomi Dagba>
 ![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am [your pitch paragraph about your passions, knowledge and interestst.] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
-
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+My name is Member Naomi Dagba, and I am a sophomore in the College of Duffield Engineering. I am majoring in Biological Engineering and minoring in Environmental Sustainability. My interest lies in water waste treatment and environmental cleanup, particularly in exploring how microbes can be used to improve environmental health. I have spent three summers at Cornell: first with the Pre-Collegiate Summer Scholars Program (PSSP), then with the Engineering Summer Math Institute (ESMI), and this summer conducting research on algal blooms. Specifically, this third summer, I will be conducting research with Professor Beth Ahner on Microcystis algal blooms in Cayuga Lake, and I am very excited to be part of her research team. In my free time, I like to play games; my favorite genres are action, adventure, strategy, and simulation.
 
 Take a look at <a href="{{ '/projects/' | relative_url }}">my projects</a> and <a href="{{ '/cv/' | relative_url }}">CV</a>
