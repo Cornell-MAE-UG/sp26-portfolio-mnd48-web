@@ -19,25 +19,25 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  *Bachelor of Science in Biological Engineering*  
+  | Graduation: May, 2028
 
-- **[High School Name]**  
+- **[Southland College Preparatory High School]**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: [May, 2024]
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Software:** Autodesk Fusion 360 
+- **Programming:** Python, Rstudio  
+- **Tools:** 3D Printing,`  
 
 ---
 
-#### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
+<!-- #### Projects
+####**[Project Title]**:  
+  ###*[Short Description]*  
   - Key Achievement 1  
   - Key Achievement 2  
 
@@ -46,25 +46,42 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
   - Key Achievement 1  
   - Key Achievement 2  
 
----
+--- -->
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- Cornell Bear Necessities Ithaca, NY
+Student Dining Associate August 2024 - Present
+● Process an average of 150+ daily transactions with 99% accuracy, ensuring PCI DSS compliance and smooth customer
+experience
+● Prepared and assembled 10–30 meals per shift, consistently meeting speed targets while maintaining high quality and
+presentation standards
+● Applied AllerTrain-certified knowledge to prevent cross-contamination, protecting customers with food allergies and
+ensuring compliance with health and safety regulations
+● Improved workflow efficiency by restocking supplies and maintaining a clean, organized workspace, reducing downtime
+for the team
+-Cornell Engineering Summer Math Institute Ithaca, NY
+Applied Math Student Researcher June 2025 – August 2025
+● Collaborated with a 3-person team on Modeling Microbial Crowding in a Jammed State Using M/M/1/K, FIFO, and FILO
+Queues, simulating microbial behavior under physical constraints
+● Applied mathematical modeling and simulation methods from the project to connect queueing theory with biological
+experiments in Mother Machine Microfluidics
+● Co-presented Modeling Microbial Crowding in a Jammed State at the Cornell OIE Summer Research Symposium,
+strengthening research communication and teamwork skills
+-Burr Ridge Dimension Living Center Burr Ridge, IL
+Certified Nursing Assistant May 2024
+● Supported up to 10 patients per shift with activities of daily living, improving patient comfort and independence
+● Accurately measured and recorded 100+ sets of vital signs during training, supporting early detection of health concerns
+● Delivered compassionate emotional support, increasing patient satisfaction and fostering trust in care environments
 
----
-
-#### Achievements & Certifications
+<!-- #### Achievements & Certifications
 - [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- [Achievement Name], [Competition/Event], [Year]   -->
 
 ---
-
+<!-- 
 #### Extracurricular Activities
 - Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Volunteer for [Event/Organization Name]   -->
 
 ---
 
