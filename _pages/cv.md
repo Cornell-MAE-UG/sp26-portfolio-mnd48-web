@@ -51,29 +51,30 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 #### Work Experience
 - Cornell Bear Necessities Ithaca, NY
 Student Dining Associate August 2024 - Present
-● Process an average of 150+ daily transactions with 99% accuracy, ensuring PCI DSS compliance and smooth customer
+-Process an average of 150+ daily transactions with 99% accuracy, ensuring PCI DSS compliance and smooth customer
 experience
-● Prepared and assembled 10–30 meals per shift, consistently meeting speed targets while maintaining high quality and
+- Prepared and assembled 10–30 meals per shift, consistently meeting speed targets while maintaining high quality and
 presentation standards
-● Applied AllerTrain-certified knowledge to prevent cross-contamination, protecting customers with food allergies and
+- Applied AllerTrain-certified knowledge to prevent cross-contamination, protecting customers with food allergies and
 ensuring compliance with health and safety regulations
-● Improved workflow efficiency by restocking supplies and maintaining a clean, organized workspace, reducing downtime
+-Improved workflow efficiency by restocking supplies and maintaining a clean, organized workspace, reducing downtime
 for the team
+
 -Cornell Engineering Summer Math Institute Ithaca, NY
 Applied Math Student Researcher June 2025 – August 2025
-● Collaborated with a 3-person team on Modeling Microbial Crowding in a Jammed State Using M/M/1/K, FIFO, and FILO
+- Collaborated with a 3-person team on Modeling Microbial Crowding in a Jammed State Using M/M/1/K, FIFO, and FILO
 Queues, simulating microbial behavior under physical constraints
-● Applied mathematical modeling and simulation methods from the project to connect queueing theory with biological
+- Applied mathematical modeling and simulation methods from the project to connect queueing theory with biological
 experiments in Mother Machine Microfluidics
-● Co-presented Modeling Microbial Crowding in a Jammed State at the Cornell OIE Summer Research Symposium,
+- Co-presented Modeling Microbial Crowding in a Jammed State at the Cornell OIE Summer Research Symposium,
 strengthening research communication and teamwork skills
--Burr Ridge Dimension Living Center Burr Ridge, IL
+<!-- -Burr Ridge Dimension Living Center Burr Ridge, IL
 Certified Nursing Assistant May 2024
 ● Supported up to 10 patients per shift with activities of daily living, improving patient comfort and independence
 ● Accurately measured and recorded 100+ sets of vital signs during training, supporting early detection of health concerns
 ● Delivered compassionate emotional support, increasing patient satisfaction and fostering trust in care environments
 
-<!-- #### Achievements & Certifications
+<!-- #### Achievements & Certifications -->
 - [Certification Name], [Issuing Organization], [Year]  
 - [Achievement Name], [Competition/Event], [Year]   -->
 
