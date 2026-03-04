@@ -6,4 +6,4 @@ technologies: Paper/pen
 image: /assets/images/NutCrackerAcuator.png
 ---
 
-<a href="/assets/images/GITHUB DESIGN_260302_174421.pdf" target="_blank">View the PDF Document</a>
+Take a look at <a href="{{ '/assets/images/GITHUB DESIGN_260302_174421.pdf' | relative_url }}" target="_blank">my NutcrackerDesign Project</a>
