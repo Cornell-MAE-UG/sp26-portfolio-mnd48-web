@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-<a href="/assets/images/Dagba_Member_RESUME.pdf" target="_blank">Download My CV here</a>
+![Download my CV here]({{ "/assets/images/Dagba_Member_RESUME.pdf" | relative_url }}){: class="profile-image"}
 
 
 **Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
